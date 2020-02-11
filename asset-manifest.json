@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mytipapp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mytipapp/static/js/main.4f8bb603.chunk.js",
+    "main.js.map": "/mytipapp/static/js/main.4f8bb603.chunk.js.map",
+    "runtime-main.js": "/mytipapp/static/js/runtime-main.0d461e14.js",
+    "runtime-main.js.map": "/mytipapp/static/js/runtime-main.0d461e14.js.map",
+    "static/js/2.08ad008d.chunk.js": "/mytipapp/static/js/2.08ad008d.chunk.js",
+    "static/js/2.08ad008d.chunk.js.map": "/mytipapp/static/js/2.08ad008d.chunk.js.map",
+    "index.html": "/mytipapp/index.html",
+    "precache-manifest.2375653c8fb5e29b7ffbfcdade23a58a.js": "/mytipapp/precache-manifest.2375653c8fb5e29b7ffbfcdade23a58a.js",
+    "service-worker.js": "/mytipapp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/mytipapp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.08ad008d.chunk.js.LICENSE.txt": "/mytipapp/static/js/2.08ad008d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mytipapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d461e14.js",
+    "static/js/2.08ad008d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4f8bb603.chunk.js"
+  ]
+}
